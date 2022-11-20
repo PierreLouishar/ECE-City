@@ -1,0 +1,6 @@
+0 Terrain-Vague 0
+1 Cabane 10
+2 Maison 50
+3 Immeuble 100
+4 Gratte_ciel 1000
+
